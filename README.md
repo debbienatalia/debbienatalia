@@ -27,12 +27,8 @@ Lo que me encanta hacer en mi tiempo libre es:
 ---
 ### 📩 Si necesitas contactarme: 
 
-("https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fcatedramare.com%2Fwp-content%2Fuploads%2F2025%2F04%2Flinkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg&imgrefurl=https%3A%2F%2Fcatedramare.com%2Fnos-mudamos-atencion-estamos-haciendo-cambios-en-linkedin%2F&docid=-qMh-DLVt_9fcM&tbnid=XxNWiSrYYCxCbM&vet=12ahUKEwiCnsukuuiSAxXQgf0HHZ-CJm0QnPAOegQIHhAB..i&w=980&h=980&hcb=2&ved=2ahUKEwiCnsukuuiSAxXQgf0HHZ-CJm0QnPAOegQIHhAB")]("https://www.linkedin.com/in/debbie-natalia-111080235")
+💼("https://www.linkedin.com/in/debbie-natalia-111080235")
 
-
-<a href="https://www.linkedin.com/in/debbie-natalia-111080235" target="_blank">
-  <img src=""/>
-</a>" alt="imagen"/>
 
 
 
