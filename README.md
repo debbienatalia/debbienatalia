@@ -28,8 +28,8 @@ Lo que me encanta hacer en mi tiempo libre es:
 ### 📩 Si necesitas contactarme: 
 
 <a href="https://www.linkedin.com/in/debbie-natalia-111080235" target="_blank">
-    <img src="https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F018%2F930%2F480%2Fnon_2x%2Flinkedin-logo-linkedin-icon-transparent-free-png.png&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Fpng%2F18930480-logotipo-de-linkedin-png-icono-de-linkedin-png-transparente&docid=F_TaUFvMIRC2eM&tbnid=8LDnIQ4sUkVK-M&vet=12ahUKEwix9eD9teiSAxXOg_0HHe1AHXYQnPAOegQIGhAB..i&w=980&h=980&hcb=2&ved=2ahUKEwix9eD9teiSAxXOg_0HHe1AHXYQnPAOegQIGhAB" alt="Linkedin" />
+    <img src="https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F018%2F930%2F480%2Fnon_2x%2Flinkedin-logo-linkedin-icon-transparent-free-png.png&imgrefurl=https%3A%2F%2Fes.vecteezy.com%2Fpng%2F18930480-logotipo-de-linkedin-png-icono-de-linkedin-png-transparente&docid=F_TaUFvMIRC2eM&tbnid=8LDnIQ4sUkVK-M&vet=12ahUKEwix9eD9teiSAxXOg_0HHe1AHXYQnPAOegQIGhAB..i&w=980&h=980&hcb=2&ved=2ahUKEwix9eD9teiSAxXOg_0HHe1AHXYQnPAOegQIGhAB"/>
 </a>
 
 
-💼 **LinkedIn:** [linkedin.com/in/debbie-natalia] (https://www.linkedin.com/in/debbie-natalia-111080235)
+
