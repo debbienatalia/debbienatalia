@@ -10,7 +10,7 @@ A continuación, detallo las tecnologías que estoy estudiando y aplicando en mi
 
 | Materia | Tecnologías | Lo que estoy viendo |
 | :--- | :--- | :--- |
-| **Programación** | **C#** | Fundamentos de la lógica y programación. |
+| **Programación** | **C #** | Fundamentos de la lógica y programación. |
 | **Bases de Datos** | **SQL** | Creación y gestión de datos (**DDL, DML y DCL**). |
 | **Lenguaje de Marcas** | **HTML5, CSS, XML y XPath** | Estructuración de contenido y diseño para la web. Manejo de datos y consultas jerárquicas. |
 
@@ -26,4 +26,4 @@ Lo que me encanta hacer en mi tiempo libre es:
 * 🎨 Dibujar.
 ---
 ### 📩 Si necesitas contactarme: 
-💼 **LinkedIn:** [linkedin.com/in/debbie-natalia-111080235] (https://www.linkedin.com/in/debbie-natalia-111080235)
+💼 **LinkedIn:** [linkedin.com/in/debbie-natalia] (https://www.linkedin.com/in/debbie-natalia-111080235)
