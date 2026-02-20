@@ -28,7 +28,7 @@ Lo que me encanta hacer en mi tiempo libre es:
 ### 📩 Si necesitas contactarme: 
 
 <a href="https://www.linkedin.com/in/debbie-natalia-111080235" target="_blank">
-    <img src=""C:\Users\debbie.ante\Downloads\OIP.jpg"/>
+    <img src=""C:\Users\debbie.ante\Downloads\OIP.jpg" alt="imagen"/>
 </a>
 
 
