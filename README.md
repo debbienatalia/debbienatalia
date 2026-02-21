@@ -31,8 +31,8 @@ Lo que me encanta hacer en mi tiempo libre es:
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40" alt="LinkedIn">
 </a>
 
-[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Blue/LinkedIn_Blue.png)](https://www.linkedin.com/in/debbie-natalia-111080235)
-💼("https://www.linkedin.com/in/debbie-natalia-111080235")
+[![Logo de LinkedIn](https://static.licdn.com/aero-v1/pictures/shared/vc/common/images/lil-icon.svg)](https://www.linkedin.com/in/debbie-natalia-111080235)
+
 
 
 
