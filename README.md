@@ -1,5 +1,5 @@
 
-[![Banner de Debbie](https://github.com/user-attachments/assets/165bd06a-8b50-481d-bd98-48c8b2551366)]
+![Banner de Debbie](https://github.com/user-attachments/assets/165bd06a-8b50-481d-bd98-48c8b2551366)
 
 ## 👋 ¡Hola, soy Debbie Natalia Ante!
 
