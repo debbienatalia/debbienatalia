@@ -2,8 +2,9 @@
 
 ### 👨‍🎓 En formación: Desarrollo de Aplicaciones Web
 Actualmente estoy estudiando el grado superior de Desarrollo de Aplicaciones Web **DAW**. 
-Me gusta el desarrollo de software y es interesante adentrarte en este mundo para seguir aprendiendo.
+Me gusta el desarrollo de software y es interesante explorar este ámbito para adquirir conocimientos.
 
+y es fascinante explorar este ámbito para continuar adquiriendo conocimientos .
 ### 🛠️ Conocimientos en desarrollo
 
 A continuación, detallo las tecnologías que estoy estudiando y aplicando en mis ejercicios de clase:
@@ -15,8 +16,8 @@ A continuación, detallo las tecnologías que estoy estudiando y aplicando en mi
 | **Lenguaje de Marcas** | **HTML5, CSS, XML y XPath** | Estructuración de contenido y diseño para la web. Manejo de datos y consultas jerárquicas. |
 
 ### ⚡ Sobre mi camino en el desarrollo
-Entender cómo funciona el software interno me motiva para seguir adelante,
-me esfuerzo por continuar aprendiendo y avanzar con el objetivo de publicar proyectos y herramientas 💪.
+Comprender el funcionamiento del software interno me inspira a seguir progresando,
+me esfuerzo por continuar aprendiendo y avanzar con el objetivo de publicar proyectos y contribuir herramientas 💪.
 
 ### 💎 Un poco más sobre mí
 Lo que me encanta hacer en mi tiempo libre es: 
@@ -26,6 +27,7 @@ Lo que me encanta hacer en mi tiempo libre es:
 * 🎨 Dibujar.
 ---
 ### 📩 Si necesitas contactarme: 
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)]("https://www.linkedin.com/in/debbie-natalia-111080235")
 
 💼("https://www.linkedin.com/in/debbie-natalia-111080235")
 
