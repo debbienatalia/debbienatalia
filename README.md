@@ -27,7 +27,9 @@ Lo que me encanta hacer en mi tiempo libre es:
 * 🎨 Dibujar.
 ---
 ### 📩 Si necesitas contactarme: 
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)]("https://www.linkedin.com/in/debbie-natalia-111080235")
+<a href= "https://www.linkedin.com/in/debbie-natalia-111080235">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40" alt="LinkedIn">
+</a>
 
 💼("https://www.linkedin.com/in/debbie-natalia-111080235")
 
