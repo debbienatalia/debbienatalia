@@ -1,10 +1,12 @@
+
+[![Banner de Debbie](https://github.com/user-attachments/assets/9b137656-beee-4b50-bcbc-ad090a4341b3)]
+
 ## 👋 ¡Hola, soy Debbie Natalia Ante!
 
 ### 👨‍🎓 En formación: Desarrollo de Aplicaciones Web
 Actualmente estoy estudiando el grado superior de Desarrollo de Aplicaciones Web **DAW**. 
 Me gusta el desarrollo de software y es interesante explorar este ámbito para adquirir conocimientos.
 
-y es fascinante explorar este ámbito para continuar adquiriendo conocimientos .
 ### 🛠️ Conocimientos en desarrollo
 
 A continuación, detallo las tecnologías que estoy estudiando y aplicando en mis ejercicios de clase:
@@ -17,7 +19,7 @@ A continuación, detallo las tecnologías que estoy estudiando y aplicando en mi
 
 ### ⚡ Sobre mi camino en el desarrollo
 Comprender el funcionamiento del software interno me inspira a seguir progresando,
-me esfuerzo por continuar aprendiendo y avanzar con el objetivo de publicar proyectos y contribuir herramientas 💪.
+me esfuerzo por continuar aprendiendo y avanzar con el objetivo de publicar proyectos y contribuir con herramientas 💪.
 
 ### 💎 Un poco más sobre mí
 Lo que me encanta hacer en mi tiempo libre es: 
@@ -30,8 +32,6 @@ Lo que me encanta hacer en mi tiempo libre es:
 <a href= "https://www.linkedin.com/in/debbie-natalia-111080235">
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40" height="40" alt="LinkedIn">
 </a>
-
-(https://static.licdn.com/aero-v1/pictures/shared/vc/common/images/lil-icon.svg)](https://www.linkedin.com/in/debbie-natalia-111080235)
 
 
 
